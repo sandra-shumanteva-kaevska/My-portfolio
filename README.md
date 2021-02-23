@@ -8,4 +8,4 @@ To create my personal portfolio I had to be creative and work with HTML and CSS.
 
 ## View it live
 
-https://wonderful-lichterman-75bc84.netlify.app/
+https://portfolio-sandra-shumanteva.netlify.app/
